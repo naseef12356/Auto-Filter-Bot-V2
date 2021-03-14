@@ -32,30 +32,8 @@ https://t.me/joinchat/VEPyuGL5nV4ZV10G
 COPYRIGHTED MOVIES
 https://t.me/joinchat/UfGEgtRQzZrXUi8Z
 
-<b>Bot CHANNEL- Works in @CFCHART only</b>
-OLD MOVIES 
-https://t.me/joinchat/7hP8iQnONVdlY2M9
+<b>I Works in @CFCHART only</b>
 
-TELUGU MOVIES 
-https://t.me/joinchat/U4Gw_XLpQ_SLO6i9
-
-ALL MOVIES
-https://t.me/joinchat/R2NzDOyi85wb4EEp
-
-MALAYALAM MOVIES
-https://t.me/joinchat/QSPu1QHGNIQ2MmQ9
-
-SERIES AND FILMOGRAPHY 
-https://t.me/joinchat/R3ocwmbOOA3ASKYJ
-
-DVD UPDATES 
-https://t.me/joinchat/VUMDWO9PFmjruguU
-
-MALAYALAM SUBTITLES 
-https://t.me/joinchat/VEPyuGL5nV4ZV10G
-
-COPYRIGHTED MOVIES
-https://t.me/joinchat/UfGEgtRQzZrXUi8Z
 
 
 JOIN ALL CHANNEL TO GET WONDERFUL EXPERIENCE 
@@ -67,7 +45,7 @@ JOIN ALL CHANNEL TO GET WONDERFUL EXPERIENCE
     
 ⭕️<b>Creater :</b> @CFCHART 
 
-⭕️<b>Language :</b> <code>ENGLISH L</code>
+⭕️<b>Language :</b> <code>ENGLISH</code>
 
 ⭕️<b>Group:</b> <a href='https://t.me/CFCHART'>my group</a> 
 
