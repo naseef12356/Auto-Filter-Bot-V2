@@ -3,67 +3,54 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
-
-This is Version 2 of Auto Filter Bot
-
-Bot gives button link to files in connected channels on query !
-
-No need to add filters for your files or movies from now on!
-
-For more click <i>help</i></b>"""
+I am fully dedicated my service to @CFCHART And @CFCHATOFFICIAL</b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
 
 <i>
-* Add bot to your group with admin rights.
-
-* Add bot to channels which you want to link with <b>all admin rights</b>!
+I ONLY WORK IN <b>@CFCHART</b>!
 </i>
 
 
-<b>Bot Commands - Works in Group only</b>
-(You need to be a Auth User in order to use these commands)
+<b>Bot MOVIE CHANNELS</b>
+OLD MOVIES
+https://t.me/joinchat/7hP8iQnONVdlY2M9
 
-* <code>/add channelid</code>  -  Links channel to your group.
-or
-* <code>/add @channelusername</code> - Links channel to your group.
+Telugu movies
+https://t.me/joinchat/U4Gw_XLpQ_SLO6i9
 
-<i>NOTE : You can get your channel ID from @ChannelidHEXbot </i>
+Tamil movies
+https://t.me/joinchat/R2NzDOyi85wb4EEp
 
+Malayalam Movies
+https://t.me/joinchat/QSPu1QHGNIQ2MmQ9
 
-* <code>/del channelid</code>  -  Delinks channel from group
-or
-* <code>/del @channelusername</code>  -  Delinks channel from group
+Rare movies
+https://t.me/joinchat/UfGEgtRQzZrXUi8Z
 
-<i>NOTE : You can get connected channel details by <code>/filterstats</code> </i>
+Series and Filmography
+https://t.me/joinchat/R3ocwmbOOA3ASKYJ
 
+Malayalam subtitles
+https://t.me/joinchat/VEPyuGL5nV4ZV10G
 
-* <code>/delall</code>  -  Removes all connected channels and filters from group!
+DVD UPDATES
+https://t.me/joinchat/VUMDWO9PFmjruguU
 
-<i>Note : Dont add command delete bots in group! Otherwise, delall command wont work</i>
+JOIN ALL CHANNELS TO GET NOTIFICATION OF NEW MOVIES
 
-
-* <code>/filterstats</code>  -  Check connected channels and number of filters.
-
-
-
-No need add each filter again!
-Bot will automatically search for your files and give links to that!
-
-
-<b>© @TroJanzHEX</b>"""
+<b>© @CFCHATOFFICIAL</b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @CFCHART 
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Language :</b> <code>English</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Library :</b> <a href='https://t.me/CFCHART'>Cinema factory</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>Main channel</b> <a href='https://t.me/Cfchatofficial'>Cinema factory™️</a> 
 
 """
